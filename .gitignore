@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ここから追加
+# Pythonインタプリタのディレクトリ
+Python-3.8/

@@ -131,3 +131,6 @@ dmypy.json
 # ここから追加
 # Pythonインタプリタのディレクトリ
 Python-3.8/
+
+# PyCharmの関連ファイルディレクトリ
+.idea/

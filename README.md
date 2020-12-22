@@ -7,4 +7,5 @@
 1. ディレクトリ内にPythonインタプリタ環境を構築
     * インタプリタのディレクトリ名はPython-x.x
     * .gitignoreにインタプリタディレクトを追記
-    
+1. PyCharmの関連ディレクトリを.gitignoreに追記
+
